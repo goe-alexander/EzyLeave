@@ -8,7 +8,7 @@ Add, Update and manage all leave requests in a department.
 Holds all web backend sources as well as Frontend. 
 
 # Backend : 
-JSF, java 1.8, Quartz
+JSF, Java 1.8, Quartz
 
 # Frontend 
 
