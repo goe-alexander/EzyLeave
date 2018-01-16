@@ -1,7 +1,7 @@
 # EzyLeave
 Leave manangement app. 
 
-Add, Update and manage all leave requests in a department. 
+Add, Update and manage all leave requests at work. 
 
 
 # Java Backend & FrontEnd
